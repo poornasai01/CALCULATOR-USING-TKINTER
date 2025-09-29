@@ -14,4 +14,5 @@ Use the equal (=) button to get the result.
 Clear button to reset the input.  
 Backspace button to delete the last digit or operator.  
 Close button to exit the calculator.  
-**Screenshot**  
+**Screenshot** 
+
